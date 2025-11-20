@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:18:26.394348+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-11-20T13:15:35.294929+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -81,17 +81,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
-          "url": "https://flash.jin10.com/detail/20251120120628966800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "市场消息：一项草案显示，美国总统特朗普正在考虑签署一项行政令，以优先于各州AI法规实施联邦规定。",
           "url": "https://flash.jin10.com/detail/20251120063519485800",
           "source": "金十数据",
@@ -116,6 +105,18 @@
           "time_info": "[03时13分 ~ 05时12分]"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普：应起诉鲍威尔",
           "url": "https://news.ifeng.com/c/8oQBc00t0BE",
           "source": "凤凰网",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 12时18分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -152,6 +165,19 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普政府宣布拆解教育部计划",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
           "source": "百度热搜",
@@ -164,15 +190,15 @@
           "time_info": "[09时04分 ~ 11时06分]"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时18分]"
+          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -247,18 +273,6 @@
           "time_info": "[02时21分 ~ 03时13分]"
         },
         {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时06分 ~ 12时18分]"
-        },
-        {
           "title": "美国总统特朗普：我们将开始着手处理苏丹问题。",
           "url": "https://flash.jin10.com/detail/20251120015742029800",
           "source": "金十数据",
@@ -331,15 +345,15 @@
           "time_info": "[02时21分 ~ 03时13分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "英国外交部发言人：英国支持特朗普总统希望结束俄乌冲突愿望，只要俄罗斯撤回军队、停止其非法入侵，明天就能做到这一点。",
@@ -540,17 +554,6 @@
           "time_info": "09时05分"
         },
         {
-          "title": "C罗随特朗普参观白宫开怀大笑",
-          "url": "https://www.toutiao.com/trending/7573905925644340755/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
           "url": "https://wallstreetcn.com/livenews/3007285",
           "source": "华尔街见闻-快讯",
@@ -578,8 +581,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时14分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时14分 ~ 13时15分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时15分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -595,17 +609,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时20分 ~ 11时06分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时18分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -806,8 +809,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 12时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 13时15分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -821,8 +824,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时14分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时14分 ~ 13时15分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -835,8 +838,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时21分 ~ 12时18分]"
+          "appearance_count": 14,
+          "time_info": "[02时21分 ~ 13时15分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -871,6 +874,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时15分]"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -926,17 +941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
         }
       ]
     },
