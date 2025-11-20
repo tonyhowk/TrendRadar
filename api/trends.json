@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T13:15:35.294929+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-11-20T14:22:07.160943+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -92,6 +92,18 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 14时22分]"
+        },
+        {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
           "url": "https://wallstreetcn.com/livenews/3007379",
           "source": "华尔街见闻-快讯",
@@ -103,6 +115,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时22分]"
         },
         {
           "title": "共和党议员对特朗普“关税红利”计划持保留态度",
@@ -127,18 +150,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时06分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -190,17 +201,6 @@
           "time_info": "[09时04分 ~ 11时06分]"
         },
         {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
-        },
-        {
           "title": "美国总统特朗普：马斯克，我支持你。",
           "url": "https://wallstreetcn.com/livenews/3007365",
           "source": "华尔街见闻-快讯",
@@ -223,6 +223,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时12分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "美国总统特朗普：股市上扬正在提振美国经济。",
@@ -488,6 +499,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "特朗普拟推出“创世使命”计划",
+          "url": "https://flash.jin10.com/detail/20251120131514234800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国总统特朗普：（面对马斯克）我支持你。",
           "url": "https://flash.jin10.com/detail/20251120014920265800",
           "source": "金十数据",
@@ -581,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时14分 ~ 13时15分]"
+          "appearance_count": 11,
+          "time_info": "[06时14分 ~ 14时22分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -592,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时04分 ~ 14时22分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -806,11 +828,12 @@
             5,
             9,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时22分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -824,8 +847,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时14分 ~ 13时15分]"
+          "appearance_count": 18,
+          "time_info": "[01时14分 ~ 14时22分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -838,8 +861,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时21分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[02时21分 ~ 14时22分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -864,6 +887,19 @@
           "time_info": "09时05分"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 14时22分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -874,18 +910,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时15分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
