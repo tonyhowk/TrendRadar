@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T21:31:58.566021+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-11-26T22:16:57.074803+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 79,
       "titles": [
+        {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 22时16分]"
+        },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
@@ -31,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时14分 ~ 21时31分]"
+          "appearance_count": 19,
+          "time_info": "[07时14分 ~ 22时16分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -46,18 +58,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时06分 ~ 19时14分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -139,6 +139,18 @@
           "time_info": "[00时20分 ~ 07时14分]"
         },
         {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 22时16分]"
+        },
+        {
           "title": "特朗普与高市早苗通话",
           "url": "https://www.douyin.com/hot/2317172",
           "source": "抖音",
@@ -149,18 +161,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时21分 ~ 21时31分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -225,6 +225,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时06分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时30分 ~ 22时16分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：欧洲必须继续向俄罗斯施压。 俄罗斯的策略没有改变。 欢迎美国总统特朗普所领导的努力。",
@@ -451,6 +463,18 @@
           "time_info": "[04时17分 ~ 06时15分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时30分 ~ 22时16分]"
+        },
+        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -501,18 +525,6 @@
           "time_info": "[02时23分 ~ 04时17分]"
         },
         {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时30分 ~ 21时31分]"
-        },
-        {
           "title": "特朗普：俄乌和平协议已非常接近达成",
           "url": "https://www.toutiao.com/trending/7576122161153281599/",
           "source": "今日头条",
@@ -523,17 +535,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 11时11分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时30分 ~ 21时31分]"
         },
         {
           "title": "特朗普催拍成龙主演电影《尖峰时刻》",
@@ -949,7 +950,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -961,8 +962,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 22时16分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -1010,8 +1011,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 22时16分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -1073,8 +1074,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时18分 ~ 21时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时18分 ~ 22时16分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -1190,6 +1191,18 @@
           "time_info": "[17时19分 ~ 18时17分]"
         },
         {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时16分]"
+        },
+        {
           "title": "【供货谷歌？中际旭创股价创历史新高，公司回应】11月26日，中际旭创大涨13.25%，报收543.22元/股，成交额达329.8亿元居A股第一，总市值破6000亿元大关，年内涨幅超342%。盘面上，CPO板块集体异动，“易中天”携手走强。有市场消息称，中际旭创是谷歌光模块供应商。中际旭创相关人士表示，公司本次股价上涨受综合因素影响，至于公司的“具体合作包括订单都不方便透露”。（21财经）",
           "url": "https://wallstreetcn.com/livenews/3010775",
           "source": "华尔街见闻-快讯",
@@ -1225,6 +1238,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
           "url": "https://flash.jin10.com/detail/20251126182610952800",
           "source": "金十数据",
@@ -1234,17 +1258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3010908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "Gemini 3 发布是否预示着程序员真正可以被替代？",
@@ -1294,7 +1307,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -1344,6 +1357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
@@ -1487,6 +1511,83 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 22时16分]"
+        },
+        {
+          "title": "截至7月，OPENAI的CHATGPT付费用户已达3500万。（INFORMATION）",
+          "url": "https://wallstreetcn.com/livenews/3010480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 06时15分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时16分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 6,
       "titles": [
@@ -1559,71 +1660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 21时31分]"
-        },
-        {
-          "title": "截至7月，OPENAI的CHATGPT付费用户已达3500万。（INFORMATION）",
-          "url": "https://wallstreetcn.com/livenews/3010480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
-          "url": "https://wallstreetcn.com/livenews/3010381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 06时15分]"
-        },
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
-          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
-          "url": "https://flash.jin10.com/detail/20251126153143429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         }
       ]
     },
