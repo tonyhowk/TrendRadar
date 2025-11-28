@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T15:16:09.512393+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-11-28T16:21:49.931858+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 16时21分]"
         },
         {
           "title": "中方回应特朗普要求高市降低声调",
@@ -86,6 +87,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时07分 ~ 15时16分]"
+        },
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -173,17 +186,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
@@ -412,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 16时21分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -440,8 +442,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 16时21分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -450,22 +452,24 @@
           "ranks": [
             7,
             9,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时18分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 16时21分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -561,7 +565,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -572,7 +576,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
@@ -734,7 +738,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -765,8 +769,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 16时21分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
