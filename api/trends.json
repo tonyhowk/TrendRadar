@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T20:26:47.937068+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-11-30T21:22:49.223157+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 21时22分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -130,6 +130,17 @@
           "time_info": "[00时17分 ~ 09时15分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时22分]"
+        },
+        {
           "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
           "url": "https://flash.jin10.com/detail/20251129202718380800",
           "source": "金十数据",
@@ -174,15 +185,15 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -191,11 +202,12 @@
           "ranks": [
             4,
             13,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时22分]"
         },
         {
           "title": "特朗普与委总统通话 直接要求其下台",
@@ -203,11 +215,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时22分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -272,11 +285,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时22分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -285,9 +299,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时22分]"
         }
       ]
     },
@@ -327,11 +341,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时22分]"
         },
         {
           "title": "严重干旱迫使伊朗大型水电站停止发电",
@@ -339,11 +354,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时22分]"
         },
         {
           "title": "伊朗萨汉德号军舰重新服役",
@@ -351,11 +367,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时22分]"
         }
       ]
     },
@@ -381,8 +398,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 20时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 21时22分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -413,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 20时26分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 21时22分]"
         }
       ]
     },
