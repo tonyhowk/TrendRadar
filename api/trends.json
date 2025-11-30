@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T17:14:38.937052+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-11-30T18:15:08.274499+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -118,6 +118,18 @@
           "time_info": "[00时17分 ~ 09时15分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 18时15分]"
+        },
+        {
           "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
           "url": "https://flash.jin10.com/detail/20251129202718380800",
           "source": "金十数据",
@@ -162,16 +174,15 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -254,8 +265,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -299,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 18时15分]"
         }
       ]
     },
@@ -314,11 +325,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时15分]"
         }
       ]
     },
