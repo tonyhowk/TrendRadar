@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T16:21:54.643900+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-12-03T17:20:06.651165+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 17时20分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -85,6 +85,17 @@
           "time_info": "[07时14分 ~ 14时24分]"
         },
         {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
           "title": "据《华盛顿邮报》对美国周二内阁会议上多个视频的分析，在大约75分钟的时间里，特朗普的眼睛累计闭了近6分钟。",
           "url": "https://flash.jin10.com/detail/20251203085601440800",
           "source": "金十数据",
@@ -107,15 +118,16 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时20分]"
         },
         {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
@@ -124,7 +136,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -135,9 +147,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -300,6 +324,17 @@
           "time_info": "[03时16分 ~ 04时18分]"
         },
         {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
           "url": "https://wallstreetcn.com/livenews/3013853",
           "source": "华尔街见闻-快讯",
@@ -361,6 +396,17 @@
           "time_info": "[01时45分 ~ 02时24分]"
         },
         {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
           "url": "https://flash.jin10.com/detail/20251203011436938800",
           "source": "金十数据",
@@ -407,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -467,6 +524,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：我的体检全部得了A。",
@@ -672,26 +740,26 @@
           "time_info": "[01时45分 ~ 02时24分]"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
           "ranks": [
-            6
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -755,7 +823,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -848,17 +916,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
           "url": "https://flash.jin10.com/detail/20251203005736487800",
           "source": "金十数据",
@@ -887,7 +944,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -994,8 +1051,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 17时20分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1200,8 +1257,22 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 17时20分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时08分 ~ 16时21分]"
+          "time_info": "[12时24分 ~ 17时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1217,20 +1288,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 07时14分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 16时21分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1480,11 +1537,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时20分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -1521,7 +1579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
