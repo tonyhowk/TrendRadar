@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T22:16:25.241306+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2025-12-05T23:17:00.216530+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -152,6 +152,19 @@
           "time_info": "[05时15分 ~ 06时13分]"
         },
         {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时17分]"
+        },
+        {
           "title": "加拿大贸易部长勒布朗：加拿大总理卡尼不打算在国际足联活动上与特朗普谈论贸易问题。",
           "url": "https://flash.jin10.com/detail/20251205004323430800",
           "source": "金十数据",
@@ -240,25 +253,13 @@
           "time_info": "[01时19分 ~ 02时25分]"
         },
         {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时16分]"
-        },
-        {
           "title": "墨西哥外交部：墨西哥总统辛鲍姆确认将与美国总统特朗普和加拿大总理卡尼会面。",
           "url": "https://flash.jin10.com/detail/20251205214207524800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -302,7 +303,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -362,21 +363,43 @@
           "time_info": "11时15分"
         },
         {
+          "title": "美国总统特朗普敦促立即制造紧凑型汽车（tiny cars）。",
+          "url": "https://wallstreetcn.com/livenews/3016010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
           "url": "https://flash.jin10.com/detail/20251205211546105800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "白宫高级官员宣称：美国总统特朗普的政府带着“强烈的怀疑态度”看待奈飞收购华纳兄弟探索公司的交易。",
+          "url": "https://wallstreetcn.com/livenews/3016006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -567,7 +590,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.46%，全球科技股指数ETF、科技行业ETF涨约0.8%，银行业ETF跌0.31%。",
+          "url": "https://wallstreetcn.com/livenews/3016009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
@@ -780,8 +814,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 23时17分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -880,8 +914,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时24分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[14时24分 ~ 23时17分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
