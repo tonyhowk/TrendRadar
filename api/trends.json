@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:18:22.860544+08:00",
-  "total_titles_processed": 2047,
+  "generated_at": "2025-12-09T23:18:50.308832+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -33,8 +33,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时18分 ~ 22时18分]"
+          "appearance_count": 13,
+          "time_info": "[15时18分 ~ 23时18分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -100,7 +100,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -169,6 +169,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时32分 ~ 23时18分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -277,18 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时16分]"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
@@ -506,6 +507,17 @@
           "time_info": "[22时17分 ~ 22时18分]"
         },
         {
+          "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
+          "url": "https://news.ifeng.com/c/8owt7VBi7fc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
           "url": "https://flash.jin10.com/detail/20251209154623905800",
           "source": "金十数据",
@@ -567,7 +579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -693,6 +705,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普将“阐述经济事实”。",
+          "url": "https://flash.jin10.com/detail/20251209224811396800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普拒绝排除派遣美军进入委内瑞拉的可能性",
           "url": "https://flash.jin10.com/detail/20251209194914113800",
           "source": "金十数据",
@@ -702,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
+          "url": "https://wallstreetcn.com/livenews/3017769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：可能降低部分商品关税 立即降息是选择美联储新主席的“试金石”",
@@ -759,6 +793,17 @@
           "time_info": "20时31分"
         },
         {
+          "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
+          "url": "https://wallstreetcn.com/livenews/3017765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普否认向匈牙利提供财政援助",
           "url": "https://flash.jin10.com/detail/20251209193147882800",
           "source": "金十数据",
@@ -801,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普接受美媒采访谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
+          "url": "https://wallstreetcn.com/livenews/3017764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
@@ -933,12 +989,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "爱尔兰总理：不同意美国总统特朗普关于欧洲领导人“软弱”的描述。",
+          "url": "https://flash.jin10.com/detail/20251209223643990800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：如果总统特朗普就利率向美联储施压，那就做正确的事。",
+          "url": "https://flash.jin10.com/detail/20251209223624097800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1121,9 +1199,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英伟达美股盘前涨幅收窄至1%。",
@@ -1137,13 +1226,24 @@
           "time_info": "19时15分"
         },
         {
+          "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3017771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209213810953800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1165,7 +1265,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1203,6 +1303,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF跌约0.7%，网络股指数ETF跌约0.5%，全球科技股指数ETF跌次%，银行业ETF、能源业ETF涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
           "url": "https://wallstreetcn.com/livenews/3017046",
           "source": "华尔街见闻-快讯",
@@ -1234,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251209223706675800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -1503,19 +1625,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时08分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[09时08分 ~ 23时18分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
@@ -1603,18 +1726,30 @@
           "url": "https://www.zhihu.com/question/1981511843768968003",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
           "url": "https://wallstreetcn.com/livenews/3017432",
