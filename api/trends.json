@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T19:15:10.106876+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2025-12-10T20:32:14.963537+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -32,6 +32,21 @@
           "time_info": "[09时10分 ~ 15时19分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 20时32分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -43,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 19时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时21分 ~ 20时32分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -70,20 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时24分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -205,7 +206,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -243,6 +244,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "美媒：特朗普政府拟调整反洗钱规则 财政部寻求强化主导权",
+          "url": "https://flash.jin10.com/detail/20251210202149381800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
           "url": "https://wallstreetcn.com/livenews/3017926",
           "source": "华尔街见闻-快讯",
@@ -264,6 +276,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时24分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -362,17 +386,6 @@
           "time_info": "[13时17分 ~ 14时25分]"
         },
         {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
-        },
-        {
           "title": "特朗普抱怨为什么收垃圾国家移民",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E5%9E%83%E5%9C%BE%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -420,6 +433,29 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时32分]"
+        },
+        {
           "title": "特朗普厕所门口受访被人推门撞到",
           "url": "https://www.toutiao.com/trending/7582097221663936046/",
           "source": "今日头条",
@@ -453,6 +489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时12分]"
+        },
+        {
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
@@ -598,17 +645,6 @@
           "time_info": "06时16分"
         },
         {
-          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
-          "url": "https://wallstreetcn.com/livenews/3018408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
           "url": "https://wallstreetcn.com/livenews/3017874",
           "source": "华尔街见闻-快讯",
@@ -728,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
+          "url": "https://flash.jin10.com/detail/20251210193900379800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国企业界对特朗普执政表现评价不高",
@@ -956,6 +1003,91 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 20时32分]"
+        },
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美债价格在美国职位空缺数据发布后显著下挫",
+          "url": "https://wallstreetcn.com/livenews/3017876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
+          "url": "https://wallstreetcn.com/livenews/3017796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "摩根士丹利：美债收益率目前偏低 美联储后续降息幅度或低于市场预期",
+          "url": "https://flash.jin10.com/detail/20251210200728866800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "十年期美债收益率升至三月高点 分析师称美联储决议后升幅有限",
+          "url": "https://flash.jin10.com/detail/20251210194057228800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1089,72 +1221,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 19时15分]"
-        },
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美债价格在美国职位空缺数据发布后显著下挫",
-          "url": "https://wallstreetcn.com/livenews/3017876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
-          "url": "https://wallstreetcn.com/livenews/3017796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
         }
       ]
     },
@@ -1208,7 +1277,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1219,7 +1288,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1230,7 +1299,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
