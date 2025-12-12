@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:19:56.118696+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-12-12T16:22:47.227810+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -49,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时22分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时22分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -376,6 +377,17 @@
           "time_info": "[12时29分 ~ 12时30分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "白宫：特朗普跟中日都能搞好关系",
           "url": "https://www.toutiao.com/trending/7582430336525828123/",
           "source": "今日头条",
@@ -387,6 +399,28 @@
           "time_info": "14时24分"
         },
         {
+          "title": "学者：特朗普想在中日博弈中两头渔利",
+          "url": "https://www.toutiao.com/trending/7582834886818401855/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普下令SEC审查代理咨询机构规则",
           "url": "https://flash.jin10.com/detail/20251212084323146800",
           "source": "金十数据",
@@ -396,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
@@ -637,6 +682,17 @@
           "time_info": "[09时10分 ~ 15时19分]"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 16时22分]"
+        },
+        {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
           "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
@@ -648,17 +704,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 15时19分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1123,8 +1168,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时22分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1359,6 +1404,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
+          "url": "https://flash.jin10.com/detail/20251212154709689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
+          "url": "https://flash.jin10.com/detail/20251212102205776800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -1384,23 +1457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
-          "url": "https://flash.jin10.com/detail/20251212102205776800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     }
