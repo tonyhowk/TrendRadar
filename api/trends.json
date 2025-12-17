@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:18:54.547379+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2025-12-17T19:15:34.868564+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -113,8 +113,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时17分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[13时17分 ~ 19时15分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -193,7 +193,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
