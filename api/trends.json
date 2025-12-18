@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:18:37.310108+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-12-18T14:24:22.980636+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时24分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -45,6 +45,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时24分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -80,17 +93,18 @@
           "time_info": "07时15分"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            6,
-            7
+            18,
+            16,
+            19,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时07分 ~ 13时18分]"
+          "time_info": "[11时17分 ~ 14时24分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -152,19 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普将发表全国讲话强调政绩",
@@ -317,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普说委内瑞拉抢了美国的石油",
+          "url": "https://wallstreetcn.com/livenews/3022878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
@@ -539,6 +551,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "特朗普宣布给百万余美国军人发钱",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BB%99%E7%99%BE%E4%B8%87%E4%BD%99%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%8F%91%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉“非法夺取”了美国资产。",
           "url": "https://flash.jin10.com/detail/20251218050010739800",
           "source": "金十数据",
@@ -575,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时15分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[06时15分 ~ 14时24分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -752,19 +775,8 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "谷歌发布效率更高的Gemini 3 AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
           "url": "https://www.cls.cn/detail/2232894",
@@ -775,8 +787,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时24分]"
+        },
+        {
+          "title": "谷歌发布效率更高的Gemini 3 AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -837,6 +860,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -873,7 +907,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -907,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，最高1000亿美元",
