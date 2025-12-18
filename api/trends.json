@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T15:19:08.064386+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-18T16:22:17.845412+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -21,8 +21,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -37,17 +37,6 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
-          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
-          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
           "url": "https://wallstreetcn.com/articles/3761566",
           "source": "华尔街见闻",
@@ -57,8 +46,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 16时22分]"
+        },
+        {
+          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
+          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -73,6 +73,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时17分 ~ 15时19分]"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 16时22分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -193,6 +205,17 @@
           "time_info": "[12时30分 ~ 13时18分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普政府计划拆解主要气候研究中心",
           "url": "https://wallstreetcn.com/livenews/3022577",
           "source": "华尔街见闻-快讯",
@@ -203,17 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -274,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普账户宣传存1千可涨至60万",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "特朗普经济施压下，委内瑞拉通胀飙升至500%以上",
@@ -610,8 +633,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时15分 ~ 15时19分]"
+          "appearance_count": 12,
+          "time_info": "[06时15分 ~ 16时22分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -787,7 +810,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -872,6 +895,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
+          "url": "https://www.cls.cn/detail/2232986",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -919,7 +953,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -929,8 +963,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 16时22分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -952,8 +986,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
@@ -987,6 +1021,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "据悉OpenAI和Anthropic寻求扩大欧洲办公空间",
+          "url": "https://flash.jin10.com/detail/20251218160350981800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "市场消息：Anthropic和OpenAI寻求更多办公空间以拓展欧洲业务。",
+          "url": "https://flash.jin10.com/detail/20251218155200520800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -1012,7 +1068,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
