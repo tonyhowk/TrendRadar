@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-19T19:14:43.420830+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-12-19T20:31:01.637755+08:00",
+  "total_titles_processed": 2009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 89,
       "titles": [
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 20时31分]"
+        },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
           "url": "https://www.cls.cn/detail/2234375",
@@ -35,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 20时31分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -64,19 +77,6 @@
           "time_info": "[09时11分 ~ 16时22分]"
         },
         {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 19时14分]"
-        },
-        {
           "title": "特朗普，敢不敢动武？",
           "url": "https://news.ifeng.com/c/8pCr08QqAFx",
           "source": "凤凰网",
@@ -85,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 20时31分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时11分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时11分 ~ 20时31分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -159,6 +159,17 @@
           "time_info": "[11时20分 ~ 14时24分]"
         },
         {
+          "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
           "source": "百度热搜",
@@ -209,7 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -220,7 +231,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -253,9 +264,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -306,16 +330,16 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            15
+            10,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -485,6 +509,28 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时30分 ~ 20时31分]"
+        },
+        {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -518,15 +564,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "20时31分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -560,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "特朗普威胁夺取委内瑞拉石油资源",
@@ -626,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -837,6 +905,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "俄罗斯总统普京：（谈BBC诉讼案）美国总统特朗普是对的。",
+          "url": "https://flash.jin10.com/detail/20251219194958548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
           "url": "https://flash.jin10.com/detail/20251219031012439800",
           "source": "金十数据",
@@ -854,7 +933,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -984,8 +1063,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 20时31分]"
         },
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -1738,7 +1817,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
@@ -1772,6 +1851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "中联部部长刘海星会见伊朗驻华大使法兹里",
+          "url": "https://wallstreetcn.com/livenews/3023912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
