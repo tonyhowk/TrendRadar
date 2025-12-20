@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:19:36.057073+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2025-12-20T17:15:22.726236+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时15分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -494,8 +494,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时15分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -511,19 +524,6 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时19分]"
-        },
-        {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
@@ -533,6 +533,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 17时15分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -549,19 +562,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时11分 ~ 16时19分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 16时19分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -671,8 +671,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时15分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -695,11 +695,12 @@
           "url": "https://flash.jin10.com/detail/20251220153845757800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -770,11 +771,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时15分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[06时15分 ~ 17时15分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
