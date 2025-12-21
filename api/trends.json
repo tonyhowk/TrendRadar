@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T17:15:31.267016+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2025-12-21T18:15:36.076339+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -59,17 +59,6 @@
           "time_info": "[01时12分 ~ 06时14分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
@@ -80,8 +69,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 18时15分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -105,11 +105,12 @@
             2,
             3,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -149,6 +150,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时13分]"
+        },
+        {
+          "title": "特朗普为何频繁起诉媒体",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -213,11 +225,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -240,11 +253,12 @@
             9,
             10,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时15分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -255,8 +269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
         }
       ]
     },
@@ -341,8 +355,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 18时15分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -381,11 +395,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 18时15分]"
         },
         {
           "title": "金价又涨了",
@@ -427,8 +442,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 18时15分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -451,7 +466,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
