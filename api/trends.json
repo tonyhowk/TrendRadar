@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:15:29.078382+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-23T20:31:46.048246+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -17,18 +17,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时10分 ~ 19时15分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -43,17 +31,31 @@
           "time_info": "[09时10分 ~ 17时20分]"
         },
         {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时10分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时22分 ~ 19时15分]"
+          "appearance_count": 16,
+          "time_info": "[11时22分 ~ 20时31分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -272,7 +274,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -341,6 +343,31 @@
           "time_info": "[00时19分 ~ 01时15分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时31分]"
+        },
+        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -363,30 +390,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时33分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
@@ -545,7 +548,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -770,6 +773,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
           "url": "https://flash.jin10.com/detail/20251223061538967800",
           "source": "金十数据",
@@ -886,7 +900,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -1159,8 +1173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1174,6 +1188,18 @@
           "time_info": "[13时19分 ~ 13时20分]"
         },
         {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时31分]"
+        },
+        {
           "title": "金价银价同日创新高",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1183,17 +1209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         }
       ]
     },
@@ -1303,7 +1318,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，咱博爱89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -1375,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -1395,8 +1421,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时14分 ~ 19时15分]"
+          "appearance_count": 28,
+          "time_info": "[01时14分 ~ 20时31分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
