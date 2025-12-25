@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T16:21:53.803434+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-25T17:18:45.650059+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 03时12分]"
+        },
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -175,7 +197,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -212,11 +234,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 16时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 17时18分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -237,11 +260,12 @@
           "url": "https://wallstreetcn.com/articles/3762016",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 17时18分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -536,7 +560,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
