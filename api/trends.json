@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:17:25.655711+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-12-25T19:14:10.144535+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -76,30 +76,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时14分]"
         },
         {
           "title": "特朗普这一年如何搅乱全球",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -178,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 13时20分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -262,8 +264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时10分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时10分 ~ 19时14分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -286,11 +288,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 19时14分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -423,7 +426,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
@@ -463,6 +466,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "金价又创历史新高",
           "url": "https://www.douyin.com/hot/2346801",
           "source": "抖音",
@@ -488,7 +502,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -513,6 +527,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
