@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T13:20:55.177693+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-01-08T14:26:32.516229+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -33,6 +33,18 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时26分]"
+        },
+        {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
@@ -43,8 +55,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 13时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 14时26分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -103,16 +103,53 @@
           "time_info": "09时12分"
         },
         {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时26分]"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时26分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时26分]"
+        },
+        {
           "title": "特朗普提出将美军费提至1.5万亿美元",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时26分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -151,18 +188,6 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
-        },
-        {
           "title": "特朗普质疑北约在美国需要时会否给予支持",
           "url": "https://flash.jin10.com/detail/20260108034118954800",
           "source": "金十数据",
@@ -187,28 +212,15 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
           "ranks": [
-            10,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时26分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -260,15 +272,16 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -486,17 +499,6 @@
           "time_info": "11时26分"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
           "url": "https://flash.jin10.com/detail/20260108062001008800",
           "source": "金十数据",
@@ -550,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "特朗普政府为何觊觎格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7592803152118681094/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -898,8 +911,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 14时26分]"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -1163,8 +1176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 13时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时26分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1226,7 +1239,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -1253,6 +1266,17 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
           "url": "https://wallstreetcn.com/livenews/3032705",
           "source": "华尔街见闻-快讯",
@@ -1273,6 +1297,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时26分]"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
+          "url": "https://flash.jin10.com/detail/20260108102327736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
@@ -1314,46 +1389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时26分]"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 07时16分]"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
-          "url": "https://flash.jin10.com/detail/20260108102327736800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         }
       ]
     },
