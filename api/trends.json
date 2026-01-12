@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:39:08.952528+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-01-12T22:21:27.077254+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -57,6 +57,30 @@
           "time_info": "[09时16分 ~ 15时23分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
@@ -83,30 +107,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[11时44分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时39分]"
         },
         {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
@@ -222,6 +222,17 @@
           "time_info": "[11时44分 ~ 15时23分]"
         },
         {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
           "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
           "url": "https://flash.jin10.com/detail/20260111220151159800",
           "source": "金十数据",
@@ -248,6 +259,19 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 22时21分]"
+        },
+        {
           "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
           "url": "https://flash.jin10.com/detail/20260112180850351800",
           "source": "金十数据",
@@ -257,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时34分 ~ 22时21分]"
         },
         {
           "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
@@ -346,17 +381,16 @@
           "time_info": "[12时45分 ~ 13时26分]"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            20,
-            17
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时39分]"
+          "time_info": "[21时38分 ~ 22时21分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -390,17 +424,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时39分]"
         },
         {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
@@ -441,6 +464,42 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3035370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
           "title": "美企业家：特朗普正在损害美国实力",
           "url": "https://www.toutiao.com/trending/7593575351952343059/",
           "source": "今日头条",
@@ -453,15 +512,28 @@
           "time_info": "[18时20分 ~ 19时16分]"
         },
         {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
         },
         {
           "title": "鲍威尔称被调查只因没听特朗普话",
@@ -486,39 +558,6 @@
           "time_info": "11时45分"
         },
         {
-          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260112212737636800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
-          "url": "https://flash.jin10.com/detail/20260112212716396800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
-          "url": "https://wallstreetcn.com/livenews/3035370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "巴克莱股价下跌，此前特朗普呼吁限制信用卡利率。",
           "url": "https://flash.jin10.com/detail/20260112160633158800",
           "source": "金十数据",
@@ -530,15 +569,15 @@
           "time_info": "16时25分"
         },
         {
-          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260112212210051800",
-          "source": "金十数据",
+          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3035386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "22时21分"
         },
         {
           "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
@@ -572,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
-          "url": "https://flash.jin10.com/detail/20260112211851443800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         },
         {
           "title": "传唤鲍威尔！特朗普折腾有啥图谋丨Hi，今天怎么看？",
@@ -767,6 +795,18 @@
       "match_count": 62,
       "titles": [
         {
+          "title": "伊朗外长：局势目前完全得到控制",
+          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 22时21分]"
+        },
+        {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
           "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
           "source": "凤凰网",
@@ -788,18 +828,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 09时16分]"
-        },
-        {
-          "title": "伊朗外长：局势目前完全得到控制",
-          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时39分]"
         },
         {
           "title": "伊朗警告美以：若遭攻击必将还击",
@@ -856,8 +884,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时28分 ~ 21时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时28分 ~ 22时21分]"
         },
         {
           "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
@@ -895,8 +923,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时44分 ~ 21时39分]"
+          "appearance_count": 17,
+          "time_info": "[11时44分 ~ 22时21分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -953,6 +981,17 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 22时21分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
           "url": "https://wallstreetcn.com/livenews/3034747",
           "source": "华尔街见闻-快讯",
@@ -965,6 +1004,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -1034,17 +1087,6 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时39分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
           "url": "https://flash.jin10.com/detail/20260111220504551800",
           "source": "金十数据",
@@ -1106,19 +1148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时17分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗外长：伊朗安全部队已控制全国局势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时39分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
@@ -1365,6 +1394,18 @@
           "time_info": "[17时27分 ~ 18时20分]"
         },
         {
+          "title": "美备好三招对付伊朗，投行拆解背后金融逻辑丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260112211304767800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时21分]"
+        },
+        {
           "title": "伊朗或很快遭美国以色列攻击",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%88%96%E5%BE%88%E5%BF%AB%E9%81%AD%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E5%87%BB%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1453,17 +1494,6 @@
           "time_info": "17时27分"
         },
         {
-          "title": "美备好三招对付伊朗，投行拆解背后金融逻辑丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260112211304767800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "伊朗哀悼3天",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%93%80%E6%82%BC3%E5%A4%A9%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1533,7 +1563,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1558,8 +1588,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时16分 ~ 21时39分]"
+          "appearance_count": 18,
+          "time_info": "[09时16分 ~ 22时21分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1576,6 +1606,17 @@
           "time_info": "[11时44分 ~ 16时25分]"
         },
         {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 22时21分]"
+        },
+        {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -1586,17 +1627,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时27分 ~ 20时34分]"
-        },
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -1633,6 +1663,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3035390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
           "url": "https://flash.jin10.com/detail/20260112170224589800",
           "source": "金十数据",
@@ -1642,6 +1683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -1733,8 +1785,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 21时39分]"
+          "appearance_count": 11,
+          "time_info": "[15时23分 ~ 22时21分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -1791,6 +1843,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报98.68。",
+          "url": "https://flash.jin10.com/detail/20260112214654921800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数日内跌超0.50%，现报98.68。",
+          "url": "https://wallstreetcn.com/livenews/3035384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20260112083545120800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1839,23 +1930,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY失守99，日内跌幅0.18%。",
-          "url": "https://flash.jin10.com/detail/20260112083545120800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
         }
       ]
     }
