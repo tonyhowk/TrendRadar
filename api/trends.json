@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-17T13:16:44.801524+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-01-17T14:23:14.117162+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 14时23分]"
+        },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
           "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
@@ -29,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 13时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -45,17 +58,16 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
-          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4,
-            5
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时16分]"
+          "time_info": "[09时10分 ~ 14时23分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -68,6 +80,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 09时10分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 14时23分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -109,31 +134,6 @@
           "time_info": "[00时21分 ~ 09时10分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
-        },
-        {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
           "url": "https://wallstreetcn.com/articles/3763493",
           "source": "华尔街见闻",
@@ -142,8 +142,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 14时23分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -166,18 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 13时16分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -364,6 +365,17 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "特朗普自曝暂缓打伊朗原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
           "title": "欧元兑美元刷新日低至1.1585，特朗普扬言要在格陵兰问题上对那些“不配合”的国家加征关税。",
           "url": "https://wallstreetcn.com/livenews/3038919",
           "source": "华尔街见闻-快讯",
@@ -494,6 +506,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美商务部长：台湾必须哄特朗普高兴",
+          "url": "https://www.toutiao.com/trending/7595989916463923263/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
@@ -646,7 +669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -742,7 +765,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -764,8 +787,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时17分 ~ 13时16分]"
+          "appearance_count": 14,
+          "time_info": "[03时17分 ~ 14时23分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -808,8 +831,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 14时23分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3039091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -939,6 +973,17 @@
           "time_info": "[01时21分 ~ 02时24分]"
         },
         {
+          "title": "伊朗全境已恢复互联网服务",
+          "url": "https://www.douyin.com/hot/2370647",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
           "title": "伊朗警方破获一起重大武器走私案",
           "url": "https://wallstreetcn.com/livenews/3039032",
           "source": "华尔街见闻-快讯",
@@ -1020,11 +1065,12 @@
           "ranks": [
             12,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时15分 ~ 13时16分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 14时23分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1037,8 +1083,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -1217,6 +1263,20 @@
           "time_info": "[02时24分 ~ 04时17分]"
         },
         {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 14时23分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
@@ -1230,17 +1290,16 @@
           "time_info": "[02时24分 ~ 04时17分]"
         },
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            13,
-            18
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 14时23分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -1253,17 +1312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时17分]"
-        },
-        {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
         }
       ]
     },
@@ -1373,11 +1421,12 @@
           "url": "https://www.toutiao.com/trending/7595953759675485747/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时23分]"
         },
         {
           "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
