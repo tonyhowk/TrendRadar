@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:38:14.131650+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-01-23T13:24:10.595785+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时24分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -42,8 +42,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时24分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -53,8 +64,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时24分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 13时24分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -65,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时24分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -80,15 +102,15 @@
           "time_info": "[00时27分 ~ 09时14分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 13时24分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -99,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时24分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -147,28 +169,6 @@
           "time_info": "[00时27分 ~ 07时17分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 12时38分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 12时38分]"
-        },
-        {
           "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
           "source": "澎湃新闻",
@@ -192,6 +192,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时24分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -251,19 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时38分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -337,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 13时24分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -432,17 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "特朗普启程返回华盛顿",
@@ -1075,8 +1076,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 13时24分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1529,8 +1530,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时24分]"
         },
         {
           "title": "伊朗议长称该国所有城市已恢复和平",
@@ -1558,7 +1559,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -1570,6 +1571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "国际金价银价同创历史新高",
@@ -1589,26 +1601,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260123120453959800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
           "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 13时24分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260123120453959800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
         }
       ]
     },
