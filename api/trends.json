@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-28T13:24:02.539489+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-01-28T14:28:49.406321+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普：将很快宣布新的美联储主席人选",
+          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
+        },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
           "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
@@ -14,17 +25,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普：将很快宣布新的美联储主席人选",
-          "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时28分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -75,6 +76,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -131,18 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时24分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -268,6 +270,18 @@
           "time_info": "[03时23分 ~ 04时27分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时28分]"
+        },
+        {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
           "url": "https://wallstreetcn.com/livenews/3044943",
           "source": "华尔街见闻-快讯",
@@ -291,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
@@ -370,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普回应美公民被ICE枪杀",
+          "url": "https://www.douyin.com/hot/2381946",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -672,7 +686,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -738,8 +752,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
@@ -749,11 +763,12 @@
             12,
             7,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "伊朗将领：邻国领土不得用于攻击伊朗",
@@ -763,11 +778,23 @@
             19,
             18,
             15,
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
+        },
+        {
+          "title": "沙特王储：不允许用沙特领土攻击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E7%94%A8%E6%B2%99%E7%89%B9%E9%A2%86%E5%9C%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "time_info": "[11时40分 ~ 14时28分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -779,17 +806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "沙特王储：不允许用沙特领土攻击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E7%94%A8%E6%B2%99%E7%89%B9%E9%A2%86%E5%9C%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时24分]"
         },
         {
           "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
@@ -909,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "伊拉克外长：伊朗不排斥对话解决分歧 美国迄今未有积极回应",
+          "url": "https://flash.jin10.com/detail/20260128140747978800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "外媒报道伊朗外长与美国特使以「非正式」方式互通消息，美伊关系是否会发生逆转？",
@@ -1035,7 +1062,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1057,8 +1084,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -1164,6 +1191,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
@@ -1231,11 +1269,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "美元指数跌至近4年来低点",
@@ -1330,8 +1369,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
+        },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
@@ -1342,19 +1392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时24分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1367,8 +1406,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时31分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[02时31分 ~ 14时28分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1380,8 +1419,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时28分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -1389,11 +1439,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时28分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -1453,11 +1504,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时28分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -1548,11 +1600,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时28分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1653,11 +1706,12 @@
             4,
             15,
             9,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时28分]"
         }
       ]
     },
