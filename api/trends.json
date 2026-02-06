@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:43:05.916261+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-06T16:35:09.180563+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时35分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 07时19分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时35分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -43,17 +57,15 @@
           "time_info": "[12时09分 ~ 15时43分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            7,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -73,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -161,6 +173,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 07时19分]"
+        },
+        {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -466,6 +489,17 @@
           "time_info": "[00时41分 ~ 07时19分]"
         },
         {
+          "title": "贝森特：看到伊朗啥样了吧，我们干的",
+          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时35分]"
+        },
+        {
           "title": "美国伊朗谈判今日举行",
           "url": "https://www.douyin.com/hot/2391128",
           "source": "抖音",
@@ -478,15 +512,29 @@
           "time_info": "[12时09分 ~ 15时43分]"
         },
         {
-          "title": "贝森特：看到伊朗啥样了吧，我们干的",
-          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
-          "source": "凤凰网",
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时35分]"
+        },
+        {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 16时35分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -539,7 +587,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -564,29 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时43分]"
-        },
-        {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "伊朗展示先进弹道导弹",
@@ -691,7 +716,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -856,7 +881,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1215,8 +1240,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时35分]"
         }
       ]
     },
@@ -1232,8 +1257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时43分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时35分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1266,7 +1291,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1283,7 +1308,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
