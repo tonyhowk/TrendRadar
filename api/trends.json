@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T09:30:56.182816+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-02-09T12:22:28.017086+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时21分]"
+        },
+        {
+          "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
+          "url": "https://flash.jin10.com/detail/20260209115712332800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -129,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -172,11 +183,12 @@
           "ranks": [
             14,
             16,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时30分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时22分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -204,27 +216,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时30分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价巨震下买黄金的人怎么样了",
@@ -238,6 +231,36 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 07时25分]"
+        },
+        {
+          "title": "金十图示：2026年02月09日（周一）上海金早盘价为1117.68元/克，较国际金价(1117.33元/克)，高0.35元/克",
+          "url": "https://flash.jin10.com/detail/20260209110142108800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时22分]"
         }
       ]
     },
