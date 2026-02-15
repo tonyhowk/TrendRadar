@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:35:23.286235+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-02-15T16:26:29.889131+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 16时26分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -73,11 +73,12 @@
           "ranks": [
             5,
             14,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时26分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -87,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时26分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -118,11 +119,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时26分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -130,11 +132,35 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时26分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时35分]"
+          "time_info": "[15时35分 ~ 16时26分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -146,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时35分"
         }
       ]
     },
@@ -177,6 +192,32 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 15时35分]"
+        },
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时26分]"
+        },
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 16时26分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -203,32 +244,6 @@
           "time_info": "[00时22分 ~ 09时44分]"
         },
         {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时35分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 15时35分]"
-        },
-        {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
           "url": "https://wallstreetcn.com/livenews/3055539",
           "source": "华尔街见闻-快讯",
@@ -251,11 +266,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时26分]"
         },
         {
           "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
@@ -263,11 +279,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时26分]"
         },
         {
           "title": "评论员：伊朗着手应战先保核设施",
@@ -412,8 +429,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 15时35分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 16时26分]"
         }
       ]
     }
